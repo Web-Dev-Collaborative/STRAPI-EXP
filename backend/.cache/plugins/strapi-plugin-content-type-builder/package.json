@@ -8,7 +8,7 @@
     "description": "content-type-builder.plugin.description"
   },
   "dependencies": {
-    "@buffetjs/core": "3.3.6",
+    "@buffetjs/core": "3.3.8",
     "@buffetjs/custom": "3.3.6",
     "@buffetjs/hooks": "3.3.6",
     "@buffetjs/icons": "3.3.6",
