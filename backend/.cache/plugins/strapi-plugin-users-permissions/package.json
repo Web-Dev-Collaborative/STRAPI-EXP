@@ -16,7 +16,7 @@
     "@buffetjs/custom": "3.3.6",
     "@buffetjs/hooks": "3.3.6",
     "@buffetjs/icons": "3.3.6",
-    "@buffetjs/styles": "3.3.6",
+    "@buffetjs/styles": "3.3.8",
     "@buffetjs/utils": "3.3.6",
     "@purest/providers": "^1.0.2",
     "bcryptjs": "^2.4.3",
