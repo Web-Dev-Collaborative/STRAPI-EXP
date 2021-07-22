@@ -13,7 +13,7 @@
     "@buffetjs/hooks": "3.3.6",
     "@buffetjs/icons": "3.3.6",
     "@buffetjs/styles": "3.3.6",
-    "@buffetjs/utils": "3.3.6",
+    "@buffetjs/utils": "3.3.8",
     "@sindresorhus/slugify": "1.1.0",
     "fs-extra": "^9.1.0",
     "immutable": "^3.8.2",
